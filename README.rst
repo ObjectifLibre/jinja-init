@@ -1,3 +1,6 @@
+.. image:: https://travis-ci.org/ObjectifLibre/jinja-init.svg?branch=master
+   :target: https://travis-ci.org/ObjectifLibre/jinja-init
+
 #####################
 jinja-init dockerfile
 #####################
